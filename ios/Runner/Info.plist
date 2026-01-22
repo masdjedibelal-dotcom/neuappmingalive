@@ -26,8 +26,6 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>MinimumOSVersion</key>
-	<string>$(IPHONEOS_DEPLOYMENT_TARGET)</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
